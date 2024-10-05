@@ -1,5 +1,4 @@
 //Arithmetic Operators(+,-,*,/,%)
-package Operators;
 
 public class Operators1 {
     public static void main(String[] args){
